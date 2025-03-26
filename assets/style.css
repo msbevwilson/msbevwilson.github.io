@@ -127,7 +127,7 @@ body {
 	object-fit: cover;
 	padding: .5em;
 }
-/* .mg-prev, .mg-next {
+.mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
 	border-radius: 00%;
@@ -135,7 +135,7 @@ body {
 	align-items: center;
 	display: flex;
 	font-size: 24px;
-} */
+}
 
 .quote {
 	font-family: 'Spectral';
